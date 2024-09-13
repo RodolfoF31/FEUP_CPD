@@ -1,0 +1,5 @@
+# Byte-compiled / optimized / DLL files
+*.class
+
+# Directories to ignore
+/bin/

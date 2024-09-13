@@ -1,0 +1,27 @@
+# Compiled object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled executables
+*.exe
+*.out
+
+# Java class files
+*.class
+
+# Build directory
+build/
+
+# Binaries and output folders
+**/bin/
+**/out/
+
+# Visual Studio Code workspace settings
+.vscode/

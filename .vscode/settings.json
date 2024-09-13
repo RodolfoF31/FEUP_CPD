@@ -1,0 +1,17 @@
+{
+  "files.associations": {
+    "ostream": "cpp",
+    "iostream": "cpp"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java"
+  },
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "c:\\Users\\Alberto\\Downloads\\json-20240303.jar",
+    "/home/alberto/Desktop/json-20240303.jar",
+    "c:\\Users\\Alberto\\Desktop\\json-20240303.jar",
+    "assign2/lib/json-20240303.jar"
+  ]
+}
